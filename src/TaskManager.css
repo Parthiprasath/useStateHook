@@ -1,0 +1,25 @@
+.task-manager {
+    text-align: center;
+  }
+  
+  .task-manager input {
+    padding: 8px;
+    margin-right: 8px;
+  }
+  
+  .task-manager button {
+    padding: 8px;
+  }
+  
+  .task-manager ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .task-manager li {
+    padding: 8px;
+    margin: 4px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
